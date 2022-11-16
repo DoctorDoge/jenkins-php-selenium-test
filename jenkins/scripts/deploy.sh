@@ -7,3 +7,4 @@ set +x
 
 echo 'Now...'
 echo 'Visit http://localhost:5000 to see your PHP application in action.'
+i
